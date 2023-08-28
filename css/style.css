@@ -1,0 +1,48 @@
+body {
+    margin-top: 50px;
+    background-image: url('/img/cover1.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.about{
+    padding-top: 5%;
+}
+
+.home{
+    padding-top: 3%;
+    padding-bottom: 10%;
+    background-image: url('/img/cover.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.text{
+    color: grey;
+    text-align: left;
+    font-size: 54px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.large-text {
+    font-size: 78px;
+    color: green;
+}
+
+.text-home{
+    margin-top: 200px;
+}
+
+section {
+    min-height: 20px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
